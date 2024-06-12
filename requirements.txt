@@ -1,0 +1,6 @@
+required libraries :
+open cv
+matplotlib.pyplot
+easyocr
+
+and CUDA GPU OFC ?///////
